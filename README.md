@@ -25,8 +25,8 @@ https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Soham-o/fake-news-detection.git](https://github.com/Soham-o/fake-news-detection.git)
-    cd fake-news-detection
+    [git clone [https://github.com/Soham-o/fake-news-detection.git](https://github.com/Soham-o/fake-news-detection.git)
+    cd fake-news-detection](https://github.com/Soham-o/Fake-News-Detection-.git)
     ```
 
 2.  **Install Dependencies**
